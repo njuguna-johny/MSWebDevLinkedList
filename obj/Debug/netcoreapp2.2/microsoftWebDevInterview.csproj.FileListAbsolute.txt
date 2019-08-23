@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\bin\Debug\netcoreapp2.2\microsoftWebDevInterview.deps.json
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\bin\Debug\netcoreapp2.2\microsoftWebDevInterview.dll
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\bin\Debug\netcoreapp2.2\microsoftWebDevInterview.pdb
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\obj\Debug\netcoreapp2.2\microsoftWebDevInterview.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\obj\Debug\netcoreapp2.2\microsoftWebDevInterview.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\obj\Debug\netcoreapp2.2\microsoftWebDevInterview.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\obj\Debug\netcoreapp2.2\microsoftWebDevInterview.AssemblyInfo.cs
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\obj\Debug\netcoreapp2.2\microsoftWebDevInterview.dll
+C:\Users\Admin\source\repos\microsoftWebDevInterview\microsoftWebDevInterview\obj\Debug\netcoreapp2.2\microsoftWebDevInterview.pdb
