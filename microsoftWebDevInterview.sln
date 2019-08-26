@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microsoftWebDevInterview", "microsoftWebDevInterview\microsoftWebDevInterview.csproj", "{37694D65-C941-411D-BE75-C17C94CD347F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteDuplicateLinkedListUnitTest", "DeleteDuplicateLinkedListUnitTest\DeleteDuplicateLinkedListUnitTest.csproj", "{206E5012-7445-48C6-810E-6AC4156C1CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37694D65-C941-411D-BE75-C17C94CD347F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37694D65-C941-411D-BE75-C17C94CD347F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37694D65-C941-411D-BE75-C17C94CD347F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37694D65-C941-411D-BE75-C17C94CD347F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206E5012-7445-48C6-810E-6AC4156C1CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206E5012-7445-48C6-810E-6AC4156C1CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206E5012-7445-48C6-810E-6AC4156C1CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206E5012-7445-48C6-810E-6AC4156C1CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896644FB-D548-475A-81A8-4E7A104D7458}
+	EndGlobalSection
+EndGlobal
